@@ -1,0 +1,33 @@
+{"basics":{
+  "photo":"images.png",
+  "name":"lalli",
+  "email":"lalli6@gmail.com",
+  "phone":"5436543278",
+  "address":"nagari"
+},
+"career":{
+"info":"As a Beginner in the Industrial field, while making a  positive  contribution, I would like to build a career, making the best use of my analytical, creative and logical skills to perform the job efficiently"
+},
+"education":[
+  {
+    "Course":"MCA",
+    "college":"SVPCET",
+    "data":["2017-20","88.9%"]
+  },
+  {
+    "Course":"b.sc(Computers)",
+    "college":"Surya degree college,nagari",
+    "data":["2012-15","84.9%"]
+  },
+  {
+    "Course":"Intermediate(M.p.c)",
+    "college":"Surya junior college,nagari",
+    "data":["2011-13","80.9%"]
+  },
+  {
+    "Course":"S.S.C",
+    "college":"Z.P High School,nagari",
+    "data":["2010","78.9%"]
+  }
+]
+}
